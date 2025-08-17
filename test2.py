@@ -6,3 +6,4 @@ e= 'git love you'
 h= 'for reset'
 ##push new comment in github
 ##pull new comment in github
+##fetch in github 
