@@ -8,3 +8,4 @@ h= 'for reset'
 ##pull new comment in github
 ##fetch in github 
 ##user.name
+###its ok
