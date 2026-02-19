@@ -1,7 +1,4 @@
-a= 'eri karamii'
-b= 'for diff test'
-c= 'hi baby'
-d= 'for restore'
-e= 'git love you'
-h= 'for reset'
-'up to date'
+class Person:
+    def __init__(self, name):
+        self.name = name 
+
